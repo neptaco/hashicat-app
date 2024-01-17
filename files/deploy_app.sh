@@ -13,7 +13,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to ${PREFIX}'s app. GITHUB_ORGANIZATIONの設定が抜けていますよ.
+  Welcome to ${PREFIX}'s app. Japanese is garbled.
   <!-- END -->
 
   </div>
